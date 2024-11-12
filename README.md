@@ -50,7 +50,7 @@ int main()
 ~~~
 ## OUTPUT
 
-![image](https://github.com/user-attachments/assets/af4a9d9d-d609-40ca-8df4-2fc314928fb9)
+![alt text](image.png)
 
 # RESULT:
 The program is executed successfully.
